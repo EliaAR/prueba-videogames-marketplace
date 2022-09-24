@@ -1,11 +1,11 @@
 import { ThemeProvider } from "@mui/material/styles";
 import { theme } from "../../config/theme";
-import "./App.css";
+import { User } from "../User/User";
 
 function App() {
   return (
     <ThemeProvider theme={theme}>
-      <p>holi</p>
+      <User />
     </ThemeProvider>
   );
 }
