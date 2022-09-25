@@ -4,6 +4,7 @@ import Box from "@mui/material/Box";
 import Typography from "@mui/material/Typography";
 import Avatar from "@mui/material/Avatar";
 import Button from "@mui/material/Button";
+import avatar from "../../images/avatar.png";
 
 interface ProfileBioProps {
   handleNotImplementedSection: MouseEventHandler<HTMLElement>;
@@ -24,7 +25,7 @@ function ProfileBio({ handleNotImplementedSection }: ProfileBioProps) {
       <Avatar
         component="article"
         alt="Avatar doggy"
-        src="/avatar.png"
+        src={avatar}
         sx={{ width: 164, height: 164 }}
       />
       <Box
