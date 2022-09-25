@@ -70,7 +70,8 @@ function User() {
           justifyContent: matches ? "space-between" : "center",
           gap: 2,
           minHeight: matches ? "calc(100vh - 339px)" : "calc(100vh - 382px)",
-          paddingBlock: 2,
+          paddingTop: 2,
+          paddingBottom: matches ? 2 : 9,
           backgroundColor: "background.default",
         }}
       >

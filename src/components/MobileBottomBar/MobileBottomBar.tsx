@@ -27,13 +27,14 @@ function MobileBottomBar({ handleSimulatedRoute }: MobileBottomBarProps) {
   };
 
   return (
-    <Box component="footer">
+    <Box
+      component="footer"
+      sx={{ position: "fixed", bottom: 0, width: "100%" }}
+    >
       <BottomNavigation
         value={selectedBottomNavigation}
         onChange={handleChange}
         sx={{
-          position: "fixed",
-          bottom: 0,
           "& .MuiBottomNavigationAction-label": {
             fontWeight: 700,
           },
