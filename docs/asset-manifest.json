@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/prueba-videogames-marketplace/static/css/main.28ad3684.css",
-    "main.js": "/prueba-videogames-marketplace/static/js/main.6ec8ecfe.js",
+    "main.js": "/prueba-videogames-marketplace/static/js/main.dab3ead7.js",
     "static/js/787.51dbb103.chunk.js": "/prueba-videogames-marketplace/static/js/787.51dbb103.chunk.js",
     "static/media/avatar.png": "/prueba-videogames-marketplace/static/media/avatar.b51578a8d0b13164d77b.png",
     "index.html": "/prueba-videogames-marketplace/index.html",
     "main.28ad3684.css.map": "/prueba-videogames-marketplace/static/css/main.28ad3684.css.map",
-    "main.6ec8ecfe.js.map": "/prueba-videogames-marketplace/static/js/main.6ec8ecfe.js.map",
+    "main.dab3ead7.js.map": "/prueba-videogames-marketplace/static/js/main.dab3ead7.js.map",
     "787.51dbb103.chunk.js.map": "/prueba-videogames-marketplace/static/js/787.51dbb103.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.28ad3684.css",
-    "static/js/main.6ec8ecfe.js"
+    "static/js/main.dab3ead7.js"
   ]
 }
